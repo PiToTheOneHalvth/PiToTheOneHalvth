@@ -1,21 +1,19 @@
-# View thy irrational world, amidst thy rational mind <br> -pi_to_the_one_halvth
+# View thy irrational world amidst thy rational mind <br> -pi_to_the_one_halvth
 
-My real name is Yingkai Nicky Niu.
+I'm Yingkai Nicky Niu, a high-school student from Shanghai (Class of 2028) and co-founder of the PHormation animation club alongside [Tagin_T][1], also known as BeginWithF or Hiverfy_H.
 
-I'm a high-school student from Shanghai (class of 2028) and the co-founder of the PHormation animation club with [Tagin_T][4] (or you could call him BeginWithF or Hiverfy_H). I love mathematics for the structure it reveals, and I care most about why a result is true, not just that it is. I work with Manim and aim to ship an interactive Manim package before I graduate.
+ I love mathematics for the structure it reveals, and I care most about why a result is true, not just that it is. I work with Manim and aim to ship an interactive Manim package before I graduate.
 
-- My most active behaviour is on [Mathematics Stack Exchange][1], discussing analysis, linear algebra, group theory, and other topics.
+- I'm most active on [Mathematics Stack Exchange][2], discussing analysis, linear algebra, group theory, and other topics.
 
-- Here's my package of [real-time-manim][2], co-written with Tagin_T. It's the base render engine of manteraction, my concept for an interactive [Manim][3] building app.
+- I'm currently working on [real-time-manim][3], a Vulkan-accelerated rendering engine co-written with Tagin_T, designing to push the boundary of ManimCE/GL. It's the base render engine of Manteraction, my concept for an interactive [Manim][4] building app.
 
-- I can be contacted via nicholas.t.e838@gmail.com.
+- I can be contacted via [nicholas.t.e838@gmail.com](mailto:nicholas.t.e838@gmail.com).
 
+[1]: https://github.com/BEGINWITHF
 
-[1]: https://math.stackexchange.com/users/1696924/pi-to-the-one-halvth?tab=profile
+[2]: https://math.stackexchange.com/users/1696924/pi-to-the-one-halvth?tab=profile
 
-[2]: https://github.com/nicholas348/real-time-manim
+[3]: https://github.com/nicholas348/real-time-manim
 
-[3]: https://github.com/3b1b/manim
-
-[4]: https://github.com/BEGINWITHF
-
+[4]: https://github.com/3b1b/manim
