@@ -8,6 +8,9 @@ I'm a high-school student from Shanghai (class of 2028) and the co-founder of th
 
 - Here's my package of [real-time-manim][2], co-written with Tagin_T. It's the base render engine of manteraction, my concept for an interactive [Manim][3] building app.
 
+- I can be contacted via nicholas.t.e838@gmail.com.
+
+
 [1]: https://math.stackexchange.com/users/1696924/pi-to-the-one-halvth?tab=profile
 
 [2]: https://github.com/nicholas348/real-time-manim
