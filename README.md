@@ -14,6 +14,6 @@ I love mathematics for the structure it reveals, and I care most about why a res
 
 [2]: https://math.stackexchange.com/users/1696924/pi-to-the-one-halvth?tab=profile
 
-[3]: https://github.com/nicholas348/real-time-manim
+[3]: https://github.com/BEGINWITHF/real-time-manim
 
 [4]: https://github.com/3b1b/manim
