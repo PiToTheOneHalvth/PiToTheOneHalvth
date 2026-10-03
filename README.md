@@ -1,4 +1,4 @@
-# View thy irrational world amidst thy rational mind <br> -pi_to_the_one_halvth
+# View thy irrational world, amidst thy rational mind <br> -pi_to_the_one_halvth
 
 I'm Yingkai Nicky Niu, a high-school student from Shanghai (Class of 2028) and co-founder of the PHormation animation club alongside [Tagin_T][1], also known as BeginWithF or Hiverfy_H.
 
