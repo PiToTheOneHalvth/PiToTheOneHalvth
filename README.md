@@ -10,6 +10,9 @@ I love mathematics for the structure it reveals, and I care most about why a res
 
 - I can be contacted via [nicholas.t.e838@gmail.com](mailto:nicholas.t.e838@gmail.com).
 
+-----
+We are hiring people for building Manteraction! Please contact me if you like to help!
+
 [1]: https://github.com/BEGINWITHF
 
 [2]: https://math.stackexchange.com/users/1696924/pi-to-the-one-halvth?tab=profile
